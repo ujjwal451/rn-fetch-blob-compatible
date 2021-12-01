@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.requires_arc = true
   s.license      = 'MIT'
   s.homepage     = 'n/a'
-  s.source       = { :git => "https://github.com/ujjwal451/rn-fetch-blob-new.git" }
+  s.source       = { :git => "https://github.com/ujjwal451/rn-fetch-blob-compatible.git" }
   s.author       = 'Joltup'
   s.source_files = 'ios/**/*.{h,m}'
   s.platform     = :ios, "8.0"
